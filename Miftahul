@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data diri</title>
+</head>
+<body>
+   
+    <fieldset>
+    <h1>BIODATA DIRi</h1>
+    <img src="https://tse2.mm.bing.net/th?id=OIP.0zqSJ9IZcqLgoMrXBzZ3aQHaFj&pid=Api&P=0&h=180" alt="my fto">
+    <h3>Pratikum pemograman web1</h3>
+    <p>Nama: MIFTAHUL</p>
+    <P>Nim: 0110223261</P>
+    <p>Alamat: NTB, Kabupaten Bima</p>
+    <p>jenis kelamin: Laki laki </p>
+    <p>Agama: islam</p>
+   <p>Asal sekolah:</p>
+    <ul>
+        <li>SMAN 1 SAPE</li>
+        <li>SMPN 4 SAPE</li>
+    </ul>
+    </fieldset>
+
+</body>
+</html>
